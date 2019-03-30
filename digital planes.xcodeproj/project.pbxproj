@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA8B8E2A224DD9C900DFFE42 /* OverlayPlane.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA8B8E29224DD9C900DFFE42 /* OverlayPlane.swift */; };
 		BAB668E922495F4E00765A94 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB668E822495F4E00765A94 /* AppDelegate.swift */; };
 		BAB668EB22495F4E00765A94 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = BAB668EA22495F4E00765A94 /* art.scnassets */; };
 		BAB668ED22495F4E00765A94 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAB668EC22495F4E00765A94 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA8B8E29224DD9C900DFFE42 /* OverlayPlane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayPlane.swift; sourceTree = "<group>"; };
 		BAB668E522495F4E00765A94 /* digital planes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "digital planes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAB668E822495F4E00765A94 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAB668EA22495F4E00765A94 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				BAB668E822495F4E00765A94 /* AppDelegate.swift */,
 				BAB668EA22495F4E00765A94 /* art.scnassets */,
 				BAB668EC22495F4E00765A94 /* ViewController.swift */,
+				BA8B8E29224DD9C900DFFE42 /* OverlayPlane.swift */,
 				BAB668EE22495F4E00765A94 /* Main.storyboard */,
 				BAB668F122495F4E00765A94 /* Assets.xcassets */,
 				BAB668F322495F4E00765A94 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BAB668ED22495F4E00765A94 /* ViewController.swift in Sources */,
+				BA8B8E2A224DD9C900DFFE42 /* OverlayPlane.swift in Sources */,
 				BAB668E922495F4E00765A94 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
